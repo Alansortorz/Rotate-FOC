@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=MainFile Member=Component C54 2.2uF
+Added Member To Class: ClassName=MainFile Member=Component R13 1K
+Added Member To Class: ClassName=MainFile Member=Component X1 8MHz
+Added Room: Name=MainFile
+Added Room: Name=Motor 0
+Added Room: Name=Motor 1

@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MainFile.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=MainFile.SchDoc|Designator=Motor 0|SchDesignator=Motor 0|FileName=MotorCell.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MotorCell.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainFile.SchDoc|Designator=Motor 1|SchDesignator=Motor 1|FileName=MotorCell_2.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MotorCell_2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

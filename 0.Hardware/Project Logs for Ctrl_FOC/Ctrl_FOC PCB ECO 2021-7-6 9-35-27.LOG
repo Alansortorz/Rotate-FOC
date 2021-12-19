@@ -1,0 +1,16 @@
+Added Component: Designator=OLED1(OLED12880)
+Added Pin To Net: NetName=VPP_9V Pin=OLED1-2
+Added Pin To Net: NetName=NetC59_2 Pin=OLED1-3
+Added Pin To Net: NetName=VCC Pin=OLED1-4
+Added Pin To Net: NetName=NetOLED1_5 Pin=OLED1-5
+Added Pin To Net: NetName=NetOLED1_6 Pin=OLED1-6
+Added Pin To Net: NetName=GND Pin=OLED1-7
+Added Pin To Net: NetName=NetOLED1_8 Pin=OLED1-8
+Added Pin To Net: NetName=GND Pin=OLED1-9
+Added Pin To Net: NetName=SCL Pin=OLED1-10
+Added Pin To Net: NetName=SDA Pin=OLED1-11
+Added Pin To Net: NetName=GND Pin=OLED1-12
+Added Member To Class: ClassName=MainFile Member=Component OLED1 OLED12880
+Added Room: Name=MainFile
+Added Room: Name=Motor 0
+Added Room: Name=Motor 1
